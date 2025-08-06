@@ -1,0 +1,2014 @@
+2025-05-05 16:09:35,089 [INFO]  ====== WebDriver manager ======
+2025-05-05 16:09:35,885 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:09:36,193 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:09:36,483 [INFO]  There is no [win64] chromedriver "135.0.7049.114" for browser google-chrome "135.0.7049" in cache
+2025-05-05 16:09:36,484 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:09:37,086 [INFO]  WebDriver version 135.0.7049.114 selected
+2025-05-05 16:09:37,090 [INFO]  Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.114/win32/chromedriver-win32.zip
+2025-05-05 16:09:37,090 [INFO]  About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.114/win32/chromedriver-win32.zip
+2025-05-05 16:09:37,407 [INFO]  Driver downloading response is 200
+2025-05-05 16:09:39,519 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:09:40,472 [INFO]  Driver has been saved in cache [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114]
+2025-05-05 16:09:41,805 [INFO]  \U0001f510  Logging in…
+2025-05-05 16:10:05,362 [INFO]  \U0001f50d  1 invitations found
+2025-05-05 16:10:05,373 [ERROR]  \u203c  Exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":".invitation-card__title"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00B3D363+60275]
+	GetHandleVerifier [0x00B3D3A4+60340]
+	(No symbol) [0x009706F3]
+	(No symbol) [0x009B8690]
+	(No symbol) [0x009B8A2B]
+	(No symbol) [0x009ADDD1]
+	(No symbol) [0x009DD0D4]
+	(No symbol) [0x009ADCF4]
+	(No symbol) [0x009DD304]
+	(No symbol) [0x009FE6EB]
+	(No symbol) [0x009DCE86]
+	(No symbol) [0x009AC623]
+	(No symbol) [0x009AD474]
+	GetHandleVerifier [0x00D88FE3+2467827]
+	GetHandleVerifier [0x00D845E6+2448886]
+	GetHandleVerifier [0x00D9F80C+2560028]
+	GetHandleVerifier [0x00B53DF5+153093]
+	GetHandleVerifier [0x00B5A3BD+179149]
+	GetHandleVerifier [0x00B44BB8+91080]
+	GetHandleVerifier [0x00B44D60+91504]
+	GetHandleVerifier [0x00B2FA10+4640]
+	BaseThreadInitThunk [0x76925D49+25]
+	RtlInitializeExceptionChain [0x7705CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7705CF81+561]
+
+2025-05-05 16:10:05,546 [ERROR]  Screenshot saved: C:\LinkedIn-checker\logs\screenshots\2025-05-05_error.png
+2025-05-05 16:13:38,512 [INFO]  ====== WebDriver manager ======
+2025-05-05 16:13:39,266 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:13:39,564 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:13:39,863 [INFO]  Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 16:13:40,938 [INFO]  \U0001f510  Logging in…
+2025-05-05 16:13:58,827 [INFO]  \U0001f50d  1 invitations found
+2025-05-05 16:13:58,835 [ERROR]  \u203c  Exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":".invitation-card__title"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00B3D363+60275]
+	GetHandleVerifier [0x00B3D3A4+60340]
+	(No symbol) [0x009706F3]
+	(No symbol) [0x009B8690]
+	(No symbol) [0x009B8A2B]
+	(No symbol) [0x009ADDD1]
+	(No symbol) [0x009DD0D4]
+	(No symbol) [0x009ADCF4]
+	(No symbol) [0x009DD304]
+	(No symbol) [0x009FE6EB]
+	(No symbol) [0x009DCE86]
+	(No symbol) [0x009AC623]
+	(No symbol) [0x009AD474]
+	GetHandleVerifier [0x00D88FE3+2467827]
+	GetHandleVerifier [0x00D845E6+2448886]
+	GetHandleVerifier [0x00D9F80C+2560028]
+	GetHandleVerifier [0x00B53DF5+153093]
+	GetHandleVerifier [0x00B5A3BD+179149]
+	GetHandleVerifier [0x00B44BB8+91080]
+	GetHandleVerifier [0x00B44D60+91504]
+	GetHandleVerifier [0x00B2FA10+4640]
+	BaseThreadInitThunk [0x76925D49+25]
+	RtlInitializeExceptionChain [0x7705CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7705CF81+561]
+
+2025-05-05 16:13:58,947 [ERROR]  Screenshot saved: C:\LinkedIn-checker\logs\screenshots\2025-05-05_error.png
+2025-05-05 16:16:48,391 [INFO]  ====== WebDriver manager ======
+2025-05-05 16:16:49,160 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:16:49,434 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:16:49,702 [INFO]  Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 16:16:50,790 [INFO]  \U0001f510  Logging in…
+2025-05-05 16:17:10,811 [INFO]  \U0001f50d  1 invitations found
+2025-05-05 16:17:10,821 [ERROR]  \u203c  Exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":".invitation-card__title"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00B3D363+60275]
+	GetHandleVerifier [0x00B3D3A4+60340]
+	(No symbol) [0x009706F3]
+	(No symbol) [0x009B8690]
+	(No symbol) [0x009B8A2B]
+	(No symbol) [0x009ADDD1]
+	(No symbol) [0x009DD0D4]
+	(No symbol) [0x009ADCF4]
+	(No symbol) [0x009DD304]
+	(No symbol) [0x009FE6EB]
+	(No symbol) [0x009DCE86]
+	(No symbol) [0x009AC623]
+	(No symbol) [0x009AD474]
+	GetHandleVerifier [0x00D88FE3+2467827]
+	GetHandleVerifier [0x00D845E6+2448886]
+	GetHandleVerifier [0x00D9F80C+2560028]
+	GetHandleVerifier [0x00B53DF5+153093]
+	GetHandleVerifier [0x00B5A3BD+179149]
+	GetHandleVerifier [0x00B44BB8+91080]
+	GetHandleVerifier [0x00B44D60+91504]
+	GetHandleVerifier [0x00B2FA10+4640]
+	BaseThreadInitThunk [0x76925D49+25]
+	RtlInitializeExceptionChain [0x7705CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7705CF81+561]
+
+2025-05-05 16:17:10,929 [ERROR]  Screenshot saved: C:\LinkedIn-checker\logs\screenshots\2025-05-05_error.png
+2025-05-05 16:19:15,122 [INFO]  ====== WebDriver manager ======
+2025-05-05 16:19:15,888 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:19:16,170 [INFO]  Get LATEST chromedriver version for google-chrome
+2025-05-05 16:19:16,438 [INFO]  Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 16:19:17,485 [INFO]  \U0001f510  Logging in…
+2025-05-05 16:19:37,582 [INFO]  \U0001f50d  1 invitations found
+2025-05-05 16:19:37,591 [ERROR]  \u203c  Exception: Message: no such element: Unable to locate element: {"method":"css selector","selector":".invitation-card__title"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00B3D363+60275]
+	GetHandleVerifier [0x00B3D3A4+60340]
+	(No symbol) [0x009706F3]
+	(No symbol) [0x009B8690]
+	(No symbol) [0x009B8A2B]
+	(No symbol) [0x009ADDD1]
+	(No symbol) [0x009DD0D4]
+	(No symbol) [0x009ADCF4]
+	(No symbol) [0x009DD304]
+	(No symbol) [0x009FE6EB]
+	(No symbol) [0x009DCE86]
+	(No symbol) [0x009AC623]
+	(No symbol) [0x009AD474]
+	GetHandleVerifier [0x00D88FE3+2467827]
+	GetHandleVerifier [0x00D845E6+2448886]
+	GetHandleVerifier [0x00D9F80C+2560028]
+	GetHandleVerifier [0x00B53DF5+153093]
+	GetHandleVerifier [0x00B5A3BD+179149]
+	GetHandleVerifier [0x00B44BB8+91080]
+	GetHandleVerifier [0x00B44D60+91504]
+	GetHandleVerifier [0x00B2FA10+4640]
+	BaseThreadInitThunk [0x76925D49+25]
+	RtlInitializeExceptionChain [0x7705CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7705CF81+561]
+
+2025-05-05 16:19:37,673 [ERROR]  Screenshot saved: C:\LinkedIn-checker\logs\screenshots\2025-05-05_error.png
+2025-05-05 16:56:32,627  WARNING   python-dotenv could not parse statement starting at line 1
+2025-05-05 16:57:37,781  INFO      ====== WebDriver manager ======
+2025-05-05 16:57:38,574  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 16:57:38,890  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 16:57:39,165  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 16:57:40,491  INFO      \U0001f510  Logging in…
+2025-05-05 16:57:47,260  INFO      \u2705  Login OK
+2025-05-05 16:58:05,649  ERROR     \u203c  Message: 
+
+2025-05-05 16:58:05,780  ERROR     \U0001f4f8  Screenshot: C:\LinkedIn_checker\logs\screenshots\2025-05-05_exception.png
+2025-05-05 17:01:50,039  INFO      ====== WebDriver manager ======
+2025-05-05 17:01:50,836  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:01:51,137  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:01:51,420  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 17:01:52,514  INFO      \U0001f510  Logging in…
+2025-05-05 17:01:58,835  INFO      \u2705  Login OK
+2025-05-05 17:02:06,351  INFO      \U0001f50d  2 cards
+2025-05-05 17:02:06,360  WARNING   \u2937  Skipped one malformed card
+2025-05-05 17:02:06,366  WARNING   \u2937  Skipped one malformed card
+2025-05-05 17:02:06,366  INFO      \U0001f4be  Wrote 0 rows \u2192 C:\LinkedIn_checker\data\invitation_status.csv
+2025-05-05 17:02:06,367  INFO      \u2705  Done – pending=0 accepted=0
+2025-05-05 17:02:08,686  INFO      \U0001f51a  Logged out
+2025-05-05 17:10:30,129  INFO      ====== WebDriver manager ======
+2025-05-05 17:10:30,989  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:10:31,307  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:10:31,577  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 17:10:32,692  INFO      \U0001f510 Login…
+2025-05-05 17:10:39,016  INFO      \u2705 Logged in
+2025-05-05 17:10:56,789  ERROR     \u203c  Message: 
+Stacktrace:
+	GetHandleVerifier [0x002AD363+60275]
+	GetHandleVerifier [0x002AD3A4+60340]
+	(No symbol) [0x000E06F3]
+	(No symbol) [0x00128690]
+	(No symbol) [0x00128A2B]
+	(No symbol) [0x00170EE2]
+	(No symbol) [0x0014D0D4]
+	(No symbol) [0x0016E6EB]
+	(No symbol) [0x0014CE86]
+	(No symbol) [0x0011C623]
+	(No symbol) [0x0011D474]
+	GetHandleVerifier [0x004F8FE3+2467827]
+	GetHandleVerifier [0x004F45E6+2448886]
+	GetHandleVerifier [0x0050F80C+2560028]
+	GetHandleVerifier [0x002C3DF5+153093]
+	GetHandleVerifier [0x002CA3BD+179149]
+	GetHandleVerifier [0x002B4BB8+91080]
+	GetHandleVerifier [0x002B4D60+91504]
+	GetHandleVerifier [0x0029FA10+4640]
+	BaseThreadInitThunk [0x76925D49+25]
+	RtlInitializeExceptionChain [0x7705CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7705CF81+561]
+	(No symbol) [0x00000000]
+
+2025-05-05 17:10:56,903  ERROR     \U0001f4f8  Screenshot: C:\LinkedIn_checker\logs\screenshots\2025-05-05_exception.png
+2025-05-05 17:13:13,636  INFO      ====== WebDriver manager ======
+2025-05-05 17:13:14,393  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:13:14,699  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:13:14,979  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 17:13:16,061  INFO      \U0001f510  Logging in…
+2025-05-05 17:13:23,826  INFO      \u2705  Login OK
+2025-05-05 17:13:31,725  INFO      \U0001f50d  2 cards found
+2025-05-05 17:13:31,989  INFO      \U0001f4be  2 rows \u2192 C:\LinkedIn_checker\data\invitation_status.csv
+2025-05-05 17:13:31,990  INFO      Done – pending=2 accepted=0
+2025-05-05 17:13:34,082  INFO      \U0001f51a Logged out
+2025-05-05 17:17:57,245  INFO      ====== WebDriver manager ======
+2025-05-05 17:17:58,032  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:17:58,314  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:17:58,591  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 17:17:59,678  INFO      \U0001f510  Logging in…
+2025-05-05 17:18:05,799  INFO      \u2705  Login OK
+2025-05-05 17:18:13,232  INFO      \U0001f50d  2 cards parsed
+2025-05-05 17:18:13,233  INFO      \U0001f4be  2 rows \u2192 C:\LinkedIn_checker\data\invitation_status.csv
+2025-05-05 17:18:13,234  INFO      Done – pending=2 accepted=0
+2025-05-05 17:23:03,735  INFO      \U0001f51a Logged out and browser closed
+2025-05-05 17:23:10,782  INFO      ====== WebDriver manager ======
+2025-05-05 17:23:11,616  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:23:11,917  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:23:12,200  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 17:23:13,285  INFO      \U0001f510 Logging in…
+2025-05-05 17:23:19,356  INFO      \u2705 Login OK
+2025-05-05 17:23:26,789  INFO      \U0001f50d 2 cards parsed
+2025-05-05 17:23:26,790  ERROR     \u203c  'Status'
+2025-05-05 17:23:26,903  ERROR     \U0001f4f8  Screenshot: C:\LinkedIn_checker\logs\screenshots\2025-05-05_exception.png
+2025-05-05 17:25:18,163  INFO      ====== WebDriver manager ======
+2025-05-05 17:25:18,923  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:25:19,233  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-05 17:25:19,504  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-05 17:25:20,559  INFO      \U0001f510 Logging in…
+2025-05-05 17:25:26,658  INFO      \u2705 Login OK
+2025-05-05 17:25:34,290  INFO      \U0001f50d 2 cards parsed
+2025-05-05 17:25:34,290  INFO      \U0001f4be  2 rows \u2192 C:\LinkedIn_checker\data\invitation_status.csv
+2025-05-05 17:25:34,291  INFO      Run done – pending=2 accepted=0
+2025-05-05 17:26:10,810  INFO      \U0001f51a Logged out & browser closed
+2025-05-06 08:53:40,346  INFO      ====== WebDriver manager ======
+2025-05-06 08:53:41,183  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 08:53:41,530  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 08:53:41,827  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 08:53:42,722  INFO      WebDriver version 135.0.7049.114 selected
+2025-05-06 08:53:42,726  INFO      Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.114/win32/chromedriver-win32.zip
+2025-05-06 08:53:42,726  INFO      About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.114/win32/chromedriver-win32.zip
+2025-05-06 08:53:43,121  INFO      Driver downloading response is 200
+2025-05-06 08:53:53,597  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 08:53:54,041  INFO      Driver has been saved in cache [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114]
+2025-05-06 08:53:55,285  INFO      Logging in…
+2025-05-06 08:54:01,839  INFO      Login OK
+2025-05-06 08:54:10,126  INFO      \U0001f50d 1 cards parsed
+2025-05-06 08:54:10,129  ERROR     \u203c  'Status'
+2025-05-06 08:54:10,297  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-06_exception.png
+2025-05-06 09:02:06,134  INFO      ====== WebDriver manager ======
+2025-05-06 09:02:06,942  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 09:02:07,252  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 09:02:07,526  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-06 09:02:08,791  INFO      Logging in…
+2025-05-06 09:02:15,006  INFO      Login OK
+2025-05-06 09:02:22,542  INFO      \U0001f50d 1 cards parsed
+2025-05-06 09:02:22,544  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 09:02:22,545  INFO      Run done – pending=1  accepted=1
+2025-05-06 09:02:22,545  WARNING   Email creds missing – skipping alert.
+2025-05-06 09:04:24,881  INFO      \U0001f51a Logged out & browser closed
+2025-05-06 11:43:41,871  INFO      ====== WebDriver manager ======
+2025-05-06 11:43:42,778  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 11:43:43,138  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 11:43:43,424  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-06 11:43:44,813  INFO      Logging in…
+2025-05-06 11:44:19,658  ERROR     \u203c  Message: 
+
+2025-05-06 11:44:19,746  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-06_exception.png
+2025-05-06 11:44:42,278  INFO      ====== WebDriver manager ======
+2025-05-06 11:44:43,057  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 11:44:43,353  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 11:44:43,637  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-06 11:44:44,729  INFO      Logging in…
+2025-05-06 11:45:19,538  ERROR     \u203c  Message: 
+
+2025-05-06 11:45:20,015  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-06_exception.png
+2025-05-06 11:45:55,254  INFO      ====== WebDriver manager ======
+2025-05-06 11:45:56,011  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 11:45:56,391  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 11:45:56,694  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-06 11:45:57,774  INFO      Logging in…
+2025-05-06 11:46:04,563  INFO      Login OK
+2025-05-06 11:46:12,224  INFO       1 cards parsed
+2025-05-06 11:46:12,235  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 11:46:12,236  INFO      Run done – pending=1  accepted=1
+2025-05-06 11:46:12,236  WARNING   Email creds missing – skipping alert.
+2025-05-06 11:46:19,898  INFO      Logged out & browser closed
+2025-05-06 12:12:38,144  INFO      ====== WebDriver manager ======
+2025-05-06 12:12:39,372  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 12:12:39,704  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 12:12:40,026  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-06 12:12:41,279  INFO      Logging in…
+2025-05-06 12:12:48,481  INFO      Login OK
+2025-05-06 12:12:56,660  INFO       1 cards parsed
+2025-05-06 12:12:56,662  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 12:12:56,663  INFO      Run done – pending=1  accepted=1
+2025-05-06 12:12:56,664  WARNING   Email creds missing – skipping alert.
+2025-05-06 12:16:17,427  INFO      Logged out & browser closed
+2025-05-06 18:51:46,835  INFO      ====== WebDriver manager ======
+2025-05-06 18:51:47,673  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 18:51:48,012  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-06 18:51:48,295  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-06 18:51:49,627  INFO      Logging in…
+2025-05-06 18:51:56,353  INFO      Login OK
+2025-05-06 18:52:04,000  INFO       1 cards parsed
+2025-05-06 18:52:04,002  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 18:52:04,004  INFO      Run done – pending=1  accepted=1
+2025-05-06 18:52:04,004  WARNING   Email creds missing – skipping alert.
+2025-05-06 19:48:09,526  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 19:48:09,527  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 19:48:09,528  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 19:51:01,272  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 19:51:01,273  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 19:51:01,274  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 19:52:12,061  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-06 19:52:12,062  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:04:02,279  INFO      ====== WebDriver manager ======
+2025-05-07 09:04:03,090  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:04:03,429  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:04:03,700  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:04:04,324  INFO      WebDriver version 135.0.7049.114 selected
+2025-05-07 09:04:04,327  INFO      Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.114/win32/chromedriver-win32.zip
+2025-05-07 09:04:04,328  INFO      About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.114/win32/chromedriver-win32.zip
+2025-05-07 09:04:04,653  INFO      Driver downloading response is 200
+2025-05-07 09:04:06,709  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:04:07,117  INFO      Driver has been saved in cache [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114]
+2025-05-07 09:04:08,440  INFO      Logging in…
+2025-05-07 09:04:12,474  ERROR     \u203c  ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-05-07 09:04:19,524  INFO      ====== WebDriver manager ======
+2025-05-07 09:04:20,314  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:04:20,614  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:04:20,887  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:04:21,976  INFO      Logging in…
+2025-05-07 09:04:27,741  INFO      Login OK
+2025-05-07 09:04:35,360  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:04:35,361  ERROR     \u203c  'Status'
+2025-05-07 09:04:35,479  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-07_exception.png
+2025-05-07 09:08:48,747  INFO      ====== WebDriver manager ======
+2025-05-07 09:08:49,604  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:08:49,934  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:08:50,242  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:08:51,409  INFO      Logging in…
+2025-05-07 09:09:06,033  INFO      Login OK
+2025-05-07 09:09:14,034  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:09:14,036  ERROR     \u203c  'Status'
+2025-05-07 09:09:14,128  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-07_exception.png
+2025-05-07 09:13:24,491  INFO      ====== WebDriver manager ======
+2025-05-07 09:13:25,338  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:13:25,636  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:13:25,915  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:13:27,068  INFO      Logging in…
+2025-05-07 09:13:33,747  INFO      Login OK
+2025-05-07 09:13:41,664  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:13:41,667  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:13:41,668  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:13:43,795  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 09:19:45,109  INFO      ====== WebDriver manager ======
+2025-05-07 09:19:45,917  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:19:46,264  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:19:46,542  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:19:47,655  INFO      Logging in…
+2025-05-07 09:19:54,325  INFO      Login OK
+2025-05-07 09:20:02,456  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:20:02,457  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:20:02,457  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:20:02,470  ERROR     \u203c  'Status'
+2025-05-07 09:20:02,596  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-07_exception.png
+2025-05-07 09:21:19,898  INFO      ====== WebDriver manager ======
+2025-05-07 09:21:20,742  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:21:21,051  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:21:21,326  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:21:22,409  INFO      Logging in…
+2025-05-07 09:21:28,875  INFO      Login OK
+2025-05-07 09:21:36,483  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:21:36,484  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:21:36,484  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:21:36,499  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 09:21:38,478  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 09:26:45,726  INFO      ====== WebDriver manager ======
+2025-05-07 09:26:46,484  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:26:46,763  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:26:47,050  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:26:48,119  INFO      Logging in…
+2025-05-07 09:26:54,465  INFO      Login OK
+2025-05-07 09:27:01,853  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:27:01,854  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:27:01,855  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:27:01,867  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 09:27:06,254  ERROR     \u203c  Message: no such element: Unable to locate element: {"method":"css selector","selector":"p._1s9oaxgp a"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00FED363+60275]
+	GetHandleVerifier [0x00FED3A4+60340]
+	(No symbol) [0x00E206F3]
+	(No symbol) [0x00E68690]
+	(No symbol) [0x00E68A2B]
+	(No symbol) [0x00E5DDD1]
+	(No symbol) [0x00E8D0D4]
+	(No symbol) [0x00E5DCF4]
+	(No symbol) [0x00E8D304]
+	(No symbol) [0x00EAE6EB]
+	(No symbol) [0x00E8CE86]
+	(No symbol) [0x00E5C623]
+	(No symbol) [0x00E5D474]
+	GetHandleVerifier [0x01238FE3+2467827]
+	GetHandleVerifier [0x012345E6+2448886]
+	GetHandleVerifier [0x0124F80C+2560028]
+	GetHandleVerifier [0x01003DF5+153093]
+	GetHandleVerifier [0x0100A3BD+179149]
+	GetHandleVerifier [0x00FF4BB8+91080]
+	GetHandleVerifier [0x00FF4D60+91504]
+	GetHandleVerifier [0x00FDFA10+4640]
+	BaseThreadInitThunk [0x761D5D49+25]
+	RtlInitializeExceptionChain [0x7742CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7742CF81+561]
+
+2025-05-07 09:27:06,441  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-07_exception.png
+2025-05-07 09:27:51,717  INFO      ====== WebDriver manager ======
+2025-05-07 09:27:52,521  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:27:52,809  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:27:53,081  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:27:54,139  INFO      Logging in…
+2025-05-07 09:28:00,691  INFO      Login OK
+2025-05-07 09:28:08,357  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:28:08,358  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:28:08,358  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:28:08,368  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 09:28:12,898  ERROR     \u203c  Message: no such element: Unable to locate element: {"method":"css selector","selector":"p._1s9oaxgp a"}
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00FED363+60275]
+	GetHandleVerifier [0x00FED3A4+60340]
+	(No symbol) [0x00E206F3]
+	(No symbol) [0x00E68690]
+	(No symbol) [0x00E68A2B]
+	(No symbol) [0x00E5DDD1]
+	(No symbol) [0x00E8D0D4]
+	(No symbol) [0x00E5DCF4]
+	(No symbol) [0x00E8D304]
+	(No symbol) [0x00EAE6EB]
+	(No symbol) [0x00E8CE86]
+	(No symbol) [0x00E5C623]
+	(No symbol) [0x00E5D474]
+	GetHandleVerifier [0x01238FE3+2467827]
+	GetHandleVerifier [0x012345E6+2448886]
+	GetHandleVerifier [0x0124F80C+2560028]
+	GetHandleVerifier [0x01003DF5+153093]
+	GetHandleVerifier [0x0100A3BD+179149]
+	GetHandleVerifier [0x00FF4BB8+91080]
+	GetHandleVerifier [0x00FF4D60+91504]
+	GetHandleVerifier [0x00FDFA10+4640]
+	BaseThreadInitThunk [0x761D5D49+25]
+	RtlInitializeExceptionChain [0x7742CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7742CF81+561]
+
+2025-05-07 09:28:13,014  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-07_exception.png
+2025-05-07 09:28:59,897  INFO      ====== WebDriver manager ======
+2025-05-07 09:29:00,652  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:29:00,932  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:29:01,209  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:29:02,272  INFO      Logging in…
+2025-05-07 09:29:08,937  INFO      Login OK
+2025-05-07 09:29:16,383  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:29:16,384  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:29:16,384  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:29:16,395  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 09:29:20,894  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,899  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,909  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,915  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,920  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,926  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,967  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,974  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,980  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,986  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,992  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:20,997  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,143  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,148  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,153  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,237  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,242  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,247  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,337  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,343  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,348  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,436  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,441  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,446  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,530  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,535  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,540  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,627  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,634  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,639  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,740  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,746  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,752  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,847  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,853  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,858  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,948  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,953  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:21,959  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,040  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,045  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,053  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,057  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,062  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,070  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,075  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,080  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,085  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,090  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,095  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,100  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,106  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,111  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,115  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,121  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,126  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,131  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,136  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,140  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,146  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,151  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,156  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,161  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:29:22,161  INFO      Connections checked and CSV updated.
+2025-05-07 09:29:24,102  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 09:31:39,905  INFO      ====== WebDriver manager ======
+2025-05-07 09:31:40,672  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:31:40,968  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:31:41,249  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:31:42,296  INFO      Logging in…
+2025-05-07 09:31:49,851  INFO      Login OK
+2025-05-07 09:31:57,306  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:31:57,307  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:31:57,308  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:31:57,308  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 09:32:01,717  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,724  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,730  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,737  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,743  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,750  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,794  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,801  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,807  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,815  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,823  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,832  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,947  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,953  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:01,959  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,046  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,052  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,059  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,140  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,146  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,152  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,219  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,225  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,232  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,305  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,310  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,316  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,382  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,388  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,394  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,469  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,475  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,480  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,575  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,582  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,588  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,660  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,665  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,671  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,748  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,754  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,761  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,768  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,775  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,781  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,787  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,794  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,802  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,824  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,830  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,836  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,841  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,846  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,851  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,856  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,861  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,865  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,871  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,877  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,882  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,888  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,894  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,900  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:32:02,900  INFO      Connections checked and CSV updated.
+2025-05-07 09:32:04,720  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 09:39:36,145  INFO      ====== WebDriver manager ======
+2025-05-07 09:39:36,975  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:39:37,289  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:39:37,573  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:39:38,732  INFO      Logging in…
+2025-05-07 09:39:45,011  INFO      Login OK
+2025-05-07 09:39:52,570  WARNING   Error extracting data from a connection card.
+2025-05-07 09:39:52,571  INFO      \U0001f50d 0 cards parsed
+2025-05-07 09:39:52,572  INFO      0 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:39:52,572  INFO      Run done – pending=0 accepted=0
+2025-05-07 09:39:57,098  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,105  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,110  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,115  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,121  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,126  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,165  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,170  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,175  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,181  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,187  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,192  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,277  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,291  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,297  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,381  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,399  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,405  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,499  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,506  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,513  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,586  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,591  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,597  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,659  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,665  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,672  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,811  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,816  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,821  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,884  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,888  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,894  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,967  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,974  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:57,979  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,043  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,048  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,054  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,148  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,153  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,159  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,165  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,170  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,175  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,181  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,186  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,191  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,196  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,199  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,204  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,210  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,215  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,219  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,224  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,229  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,234  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,238  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,244  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,248  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,253  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,258  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,262  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:39:58,262  INFO      Connections checked and CSV updated.
+2025-05-07 09:40:00,745  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 09:42:05,471  INFO      ====== WebDriver manager ======
+2025-05-07 09:42:06,261  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:42:06,548  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:42:06,829  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:42:07,897  INFO      Logging in…
+2025-05-07 09:42:14,098  INFO      Login OK
+2025-05-07 09:42:21,341  WARNING   Error extracting data from a connection card.
+2025-05-07 09:42:21,341  INFO      \U0001f50d 0 cards parsed
+2025-05-07 09:42:21,341  INFO      0 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:42:21,342  INFO      Run done – pending=0 accepted=0
+2025-05-07 09:42:25,816  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,823  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,828  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,834  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,840  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,846  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,891  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,897  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,902  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,908  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,912  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:25,918  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,113  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,118  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,124  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,199  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,205  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,210  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,299  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,306  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,314  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,402  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,409  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,416  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,525  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,530  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,536  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,632  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,640  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,647  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,735  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,742  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,747  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,836  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,841  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,847  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,922  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,928  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:26,934  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,022  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,029  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,036  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,044  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,051  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,064  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,079  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,096  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,110  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,117  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,128  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,137  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,142  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,150  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,158  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,165  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,171  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,178  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,184  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,190  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,196  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,202  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,208  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,213  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:42:27,213  INFO      Connections checked and CSV updated.
+2025-05-07 09:42:30,091  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 09:48:05,683  INFO      ====== WebDriver manager ======
+2025-05-07 09:48:06,465  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:48:06,763  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:48:07,049  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:48:08,099  INFO      Logging in…
+2025-05-07 09:48:14,994  INFO      Login OK
+2025-05-07 09:48:22,788  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:48:22,791  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:48:22,791  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:48:22,793  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 09:48:27,161  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,167  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,173  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,179  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,184  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,192  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,228  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:27,237  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,241  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,247  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,252  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,258  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,262  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,336  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,341  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,346  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,384  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:27,445  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,452  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,458  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,481  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:27,559  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,567  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,575  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,606  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:27,661  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,667  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,672  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,696  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:27,743  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,748  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,752  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,774  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:27,819  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,825  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,830  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,849  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:27,896  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,903  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,910  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,933  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:27,984  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,989  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:27,994  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,013  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:28,058  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,063  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,069  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,089  ERROR     Error processing connection: name 'headline' is not defined
+2025-05-07 09:48:28,145  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,150  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,155  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,160  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,165  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,170  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,175  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,180  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,185  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,190  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,195  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,199  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,205  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,209  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,215  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,220  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,224  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,230  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,235  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,240  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,245  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,251  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,256  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,261  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:48:28,261  INFO      Connections checked and CSV updated.
+2025-05-07 09:48:30,884  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 09:50:12,307  INFO      ====== WebDriver manager ======
+2025-05-07 09:50:13,125  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:50:13,424  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:50:13,700  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:50:14,789  INFO      Logging in…
+2025-05-07 09:50:22,284  INFO      Login OK
+2025-05-07 09:50:29,959  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:50:29,960  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:50:29,961  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:50:29,963  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 09:50:34,514  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,520  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,526  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,531  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,536  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,546  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,644  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,661  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,667  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,671  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,677  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,691  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,885  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,892  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:34,898  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,082  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,089  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,097  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,278  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,284  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,289  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,439  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,444  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,449  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,602  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,610  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,616  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,779  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,789  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,794  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,954  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,959  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:35,964  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,120  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,124  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,129  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,282  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,287  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,292  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,442  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,447  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,451  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,457  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,461  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,467  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,471  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,477  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,482  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,488  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,495  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,501  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,508  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,514  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,520  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,525  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,530  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,535  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,540  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,546  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,551  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,556  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,566  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,578  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:50:36,578  INFO      Connections checked and CSV updated.
+2025-05-07 09:51:35,861  ERROR     \u203c  Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+  (Session info: chrome=135.0.7049.115)
+Stacktrace:
+	GetHandleVerifier [0x0096D363+60275]
+	GetHandleVerifier [0x0096D3A4+60340]
+	(No symbol) [0x007A06F3]
+	(No symbol) [0x0079DB50]
+	(No symbol) [0x007914A8]
+	(No symbol) [0x00792D90]
+	(No symbol) [0x00791738]
+	(No symbol) [0x00791293]
+	(No symbol) [0x00790FA1]
+	(No symbol) [0x0078EF80]
+	(No symbol) [0x0078F91B]
+	(No symbol) [0x007A407E]
+	(No symbol) [0x0082F2F7]
+	(No symbol) [0x0080D08C]
+	(No symbol) [0x0082E6EB]
+	(No symbol) [0x0080CE86]
+	(No symbol) [0x007DC623]
+	(No symbol) [0x007DD474]
+	GetHandleVerifier [0x00BB8FE3+2467827]
+	GetHandleVerifier [0x00BB45E6+2448886]
+	GetHandleVerifier [0x00BCF80C+2560028]
+	GetHandleVerifier [0x00983DF5+153093]
+	GetHandleVerifier [0x0098A3BD+179149]
+	GetHandleVerifier [0x00974BB8+91080]
+	GetHandleVerifier [0x00974D60+91504]
+	GetHandleVerifier [0x0095FA10+4640]
+	BaseThreadInitThunk [0x761D5D49+25]
+	RtlInitializeExceptionChain [0x7742CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7742CF81+561]
+
+2025-05-07 09:51:35,976  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-07_exception.png
+2025-05-07 09:58:07,916  INFO      ====== WebDriver manager ======
+2025-05-07 09:58:08,827  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:58:09,152  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:58:09,431  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 09:58:10,597  INFO      Logging in…
+2025-05-07 09:58:17,115  INFO      Login OK
+2025-05-07 09:58:25,329  INFO      \U0001f50d 1 cards parsed
+2025-05-07 09:58:25,332  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 09:58:25,332  INFO      Run done – pending=1 accepted=0
+2025-05-07 09:58:25,335  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 09:58:29,720  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,738  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,750  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,759  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,766  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,775  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,847  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,853  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,868  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,874  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,880  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:29,885  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,095  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,102  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,109  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,311  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,318  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,326  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,499  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,507  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,513  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,669  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,674  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,679  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,828  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,833  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,838  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:30,994  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,000  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,004  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,152  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,158  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,162  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,310  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,317  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,323  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,470  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,474  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,480  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,630  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,634  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,639  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,645  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,649  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,655  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,661  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,668  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,676  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,682  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,689  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,694  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,699  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,705  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,712  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,718  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,724  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,731  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,737  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,743  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,749  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,755  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,760  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,770  WARNING   Could not find the connection name for a particular card.
+2025-05-07 09:58:31,771  INFO      Connections checked and CSV updated.
+2025-05-07 09:58:33,911  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 09:59:57,616  INFO      ====== WebDriver manager ======
+2025-05-07 09:59:58,383  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:59:58,672  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 09:59:58,946  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 10:00:00,033  INFO      Logging in…
+2025-05-07 10:00:06,770  INFO      Login OK
+2025-05-07 10:00:14,625  INFO      \U0001f50d 1 cards parsed
+2025-05-07 10:00:14,626  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 10:00:14,626  INFO      Run done – pending=1 accepted=0
+2025-05-07 10:00:14,627  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 10:00:19,841  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:19,958  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:19,973  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,042  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,122  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,129  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,199  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,206  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,212  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,228  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,250  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,257  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,572  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,578  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,583  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,739  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,744  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,749  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,906  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,911  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:20,917  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,074  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,080  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,085  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,256  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,261  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,267  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,453  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,458  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,463  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,629  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,634  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,639  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,792  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,797  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,802  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,965  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,976  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:21,989  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,194  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,201  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,208  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,215  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,222  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,229  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,236  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,243  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,249  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,255  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,261  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,267  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,272  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,278  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,283  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,288  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,293  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,299  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,304  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,308  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,313  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,320  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,325  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,330  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:00:22,330  INFO      Connections checked and CSV updated.
+2025-05-07 10:00:24,300  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 10:07:36,392  INFO      ====== WebDriver manager ======
+2025-05-07 10:07:37,449  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 10:07:37,877  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 10:07:38,406  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 10:07:40,047  INFO      Logging in…
+2025-05-07 10:07:47,943  INFO      Login OK
+2025-05-07 10:07:56,287  INFO      \U0001f50d 1 cards parsed
+2025-05-07 10:07:56,289  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 10:07:56,289  INFO      Run done – pending=1 accepted=0
+2025-05-07 10:07:56,297  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 10:08:01,142  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,157  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,249  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,279  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,462  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,483  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,559  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,565  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,571  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,577  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,584  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:01,594  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,226  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,232  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,239  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,433  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,439  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,445  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,865  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,873  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:02,880  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,354  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,362  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,370  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,665  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,673  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,681  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,880  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,885  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:03,891  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,067  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,074  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,081  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,395  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,410  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,423  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,827  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,836  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:04,846  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,053  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,060  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,071  ERROR     Error processing connection: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00D6D363+60275]
+	GetHandleVerifier [0x00D6D3A4+60340]
+	(No symbol) [0x00BA06F3]
+	(No symbol) [0x00BA6E47]
+	(No symbol) [0x00BA913A]
+	(No symbol) [0x00BA91B7]
+	(No symbol) [0x00BE7F24]
+	(No symbol) [0x00BE8A2B]
+	(No symbol) [0x00BDDDD1]
+	(No symbol) [0x00C0D0D4]
+	(No symbol) [0x00BDDCF4]
+	(No symbol) [0x00C0D304]
+	(No symbol) [0x00C2E6EB]
+	(No symbol) [0x00C0CE86]
+	(No symbol) [0x00BDC623]
+	(No symbol) [0x00BDD474]
+	GetHandleVerifier [0x00FB8FE3+2467827]
+	GetHandleVerifier [0x00FB45E6+2448886]
+	GetHandleVerifier [0x00FCF80C+2560028]
+	GetHandleVerifier [0x00D83DF5+153093]
+	GetHandleVerifier [0x00D8A3BD+179149]
+	GetHandleVerifier [0x00D74BB8+91080]
+	GetHandleVerifier [0x00D74D60+91504]
+	GetHandleVerifier [0x00D5FA10+4640]
+	BaseThreadInitThunk [0x76765D49+25]
+	RtlInitializeExceptionChain [0x7759CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7759CF81+561]
+
+2025-05-07 10:08:05,077  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,087  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,095  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,102  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,109  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,115  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,122  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,127  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,134  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,140  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,146  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,153  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,159  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,166  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,173  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,179  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,184  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,190  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,195  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,200  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,207  WARNING   Could not find the connection name for a particular card.
+2025-05-07 10:08:05,207  INFO      Connections checked and CSV updated.
+2025-05-07 10:08:10,098  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 12:59:48,540  INFO      ====== WebDriver manager ======
+2025-05-07 12:59:50,098  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 12:59:50,453  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 12:59:50,788  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\135.0.7049.114\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 12:59:52,111  INFO      Logging in…
+2025-05-07 13:00:16,862  INFO      Login OK
+2025-05-07 13:00:25,663  INFO      \U0001f50d 1 cards parsed
+2025-05-07 13:00:25,673  INFO      1 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 13:00:25,675  INFO      Run done – pending=1 accepted=0
+2025-05-07 13:00:25,693  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 13:00:34,751  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:34,948  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:34,990  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:35,333  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:35,379  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:35,888  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:36,190  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:36,229  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:36,256  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:36,282  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:36,301  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:36,321  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:37,064  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:37,094  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:37,149  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:37,983  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:38,012  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:38,039  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:38,828  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:38,852  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:38,878  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:39,557  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:39,580  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:39,597  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:40,252  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:40,278  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:40,297  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:41,091  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:41,112  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:41,132  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:41,828  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:41,848  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:41,875  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:42,577  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:42,586  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:42,594  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:43,296  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:43,325  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:43,351  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,052  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,071  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,096  ERROR     Error processing connection: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=135.0.7049.115); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x0119D363+60275]
+	GetHandleVerifier [0x0119D3A4+60340]
+	(No symbol) [0x00FD06F3]
+	(No symbol) [0x00FD6E47]
+	(No symbol) [0x00FD913A]
+	(No symbol) [0x00FD91B7]
+	(No symbol) [0x01017F24]
+	(No symbol) [0x01018A2B]
+	(No symbol) [0x0100DDD1]
+	(No symbol) [0x0103D0D4]
+	(No symbol) [0x0100DCF4]
+	(No symbol) [0x0103D304]
+	(No symbol) [0x0105E6EB]
+	(No symbol) [0x0103CE86]
+	(No symbol) [0x0100C623]
+	(No symbol) [0x0100D474]
+	GetHandleVerifier [0x013E8FE3+2467827]
+	GetHandleVerifier [0x013E45E6+2448886]
+	GetHandleVerifier [0x013FF80C+2560028]
+	GetHandleVerifier [0x011B3DF5+153093]
+	GetHandleVerifier [0x011BA3BD+179149]
+	GetHandleVerifier [0x011A4BB8+91080]
+	GetHandleVerifier [0x011A4D60+91504]
+	GetHandleVerifier [0x0118FA10+4640]
+	BaseThreadInitThunk [0x76765D49+25]
+	RtlInitializeExceptionChain [0x7759CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7759CF81+561]
+
+2025-05-07 13:00:44,124  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,161  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,182  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,203  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,227  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,248  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,267  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,295  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,319  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,345  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,371  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,389  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,412  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,435  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,465  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,557  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,608  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,633  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,664  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,685  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,704  WARNING   Could not find the connection name for a particular card.
+2025-05-07 13:00:44,705  INFO      Connections checked and CSV updated.
+2025-05-07 13:00:47,524  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 20:24:48,178  INFO      ====== WebDriver manager ======
+2025-05-07 20:24:49,099  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:24:49,387  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:24:49,670  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 20:24:52,098  INFO      Logging in…
+2025-05-07 20:25:23,561  INFO      Login OK
+2025-05-07 20:25:31,501  INFO      \U0001f50d 3 cards parsed
+2025-05-07 20:25:31,503  ERROR     \u203c  name 'load_prev_pending' is not defined
+2025-05-07 20:27:48,716  INFO      ====== WebDriver manager ======
+2025-05-07 20:27:49,480  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:27:49,773  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:27:50,064  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 20:27:52,506  INFO      Logging in…
+2025-05-07 20:28:11,105  INFO      Login OK
+2025-05-07 20:28:18,868  INFO      \U0001f50d 3 cards parsed
+2025-05-07 20:28:18,870  INFO      3 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 20:28:18,870  INFO      Run done – pending=3 accepted=3
+2025-05-07 20:28:18,870  WARNING   Email creds missing – skipping alert.
+2025-05-07 20:28:18,881  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 20:28:23,649  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,752  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,772  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,778  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,785  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,791  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,862  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,871  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,878  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,883  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,889  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:23,893  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,082  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,087  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,093  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,240  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,245  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,251  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,402  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,406  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,412  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,569  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,574  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,579  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,740  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,745  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,749  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,933  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,939  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:24,945  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,110  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,115  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,120  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,276  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,282  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,287  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,446  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,451  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,456  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,641  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,649  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,653  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,660  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,667  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,673  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,678  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,683  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,689  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,694  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,700  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,705  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,710  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,715  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,720  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,725  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,731  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,736  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,741  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,746  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,752  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,757  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,761  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,767  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:28:25,767  INFO      Connections checked and CSV updated.
+2025-05-07 20:28:28,351  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 20:33:39,407  INFO      ====== WebDriver manager ======
+2025-05-07 20:33:40,176  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:33:40,465  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:33:40,749  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 20:33:43,161  INFO      Logging in…
+2025-05-07 20:34:17,964  INFO      Login OK
+2025-05-07 20:34:29,324  INFO      \U0001f50d 3 cards parsed
+2025-05-07 20:34:29,325  INFO      3 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 20:34:29,325  INFO      Run done – pending=3 accepted=3
+2025-05-07 20:34:29,325  WARNING   Email creds missing – skipping alert.
+2025-05-07 20:34:29,327  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 20:34:34,458  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,465  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,471  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,477  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,483  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,493  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,565  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,571  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,576  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,582  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,587  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,592  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,779  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,784  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,790  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,942  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,955  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:34,960  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,113  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,119  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,124  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,277  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,283  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,288  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,465  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,471  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,477  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,649  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,654  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,661  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,817  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,823  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,828  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,982  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,987  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:35,992  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,145  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,151  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,156  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,314  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,319  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,324  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,329  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,334  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,340  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,346  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,353  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,359  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,363  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,369  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,374  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,381  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,386  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,392  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,397  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,402  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,407  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,413  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,419  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,425  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,431  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,436  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,442  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:34:36,444  INFO      Connections checked and CSV updated.
+2025-05-07 20:34:39,671  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 20:38:08,315  INFO      ====== WebDriver manager ======
+2025-05-07 20:38:09,073  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:38:09,385  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:38:09,673  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 20:38:12,104  INFO      Logging in…
+2025-05-07 20:38:45,506  ERROR     \u203c  Message: 
+
+2025-05-07 20:38:45,611  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-07_exception.png
+2025-05-07 20:38:49,367  INFO      ====== WebDriver manager ======
+2025-05-07 20:38:50,166  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:38:50,467  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:38:50,758  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 20:38:52,082  INFO      Logging in…
+2025-05-07 20:39:11,721  INFO      Login OK
+2025-05-07 20:39:20,423  INFO      \U0001f50d 3 cards parsed
+2025-05-07 20:39:20,424  INFO      3 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 20:39:20,425  INFO      Run done – pending=3 accepted=3
+2025-05-07 20:39:20,425  WARNING   Email creds missing – skipping alert.
+2025-05-07 20:39:20,426  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 20:39:25,509  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,514  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,519  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,524  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,533  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,537  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,593  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,599  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,604  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,610  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,617  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,622  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,842  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,847  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,851  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:25,995  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,000  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,005  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,143  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,149  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,155  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,338  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,344  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,351  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,498  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,503  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,509  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,666  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,671  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,676  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,818  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,824  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,829  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,973  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,978  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:26,982  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,123  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,129  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,134  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,285  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,290  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,296  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,300  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,305  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,312  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,318  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,342  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,352  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,358  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,362  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,367  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,372  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,377  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,382  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,387  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,392  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,397  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,401  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,406  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,412  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,417  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,421  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,426  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:39:27,429  INFO      Connections checked and CSV updated.
+2025-05-07 20:39:29,613  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 20:46:26,450  INFO      ====== WebDriver manager ======
+2025-05-07 20:46:27,300  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:46:27,631  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:46:27,955  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 20:46:30,400  INFO      Logging in…
+2025-05-07 20:46:48,453  INFO      Login OK
+2025-05-07 20:46:56,622  INFO      \U0001f50d 3 cards parsed
+2025-05-07 20:46:56,625  INFO      3 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 20:46:56,625  INFO      Run done – pending=3 accepted=3
+2025-05-07 20:46:56,626  WARNING   Email creds missing – skipping alert.
+2025-05-07 20:46:56,626  ERROR     \u203c  name 'check_and_update_connection_status' is not defined
+2025-05-07 20:46:56,738  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-07_exception.png
+2025-05-07 20:48:53,691  INFO      ====== WebDriver manager ======
+2025-05-07 20:48:54,518  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:48:54,843  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:48:55,170  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 20:48:57,622  INFO      Logging in…
+2025-05-07 20:49:14,605  INFO      Login OK
+2025-05-07 20:49:22,619  INFO      \U0001f50d 3 cards parsed
+2025-05-07 20:49:22,620  INFO      3 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 20:49:22,620  INFO      Run done – pending=3 accepted=3
+2025-05-07 20:49:22,620  WARNING   Email creds missing – skipping alert.
+2025-05-07 20:49:22,622  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 20:49:27,391  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,397  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,403  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,410  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,415  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,425  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,498  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,505  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,509  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,515  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,520  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,525  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,937  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,948  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:27,960  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,173  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,179  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,185  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,365  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,370  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,376  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,616  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,621  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,626  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,850  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,863  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:28,873  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,183  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,194  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,202  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,492  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,500  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,507  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,706  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,714  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,721  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,973  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,979  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:29,985  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,156  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,161  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,168  ERROR     Error processing connection: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=136.0.7103.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00D3FC53+61635]
+	GetHandleVerifier [0x00D3FC94+61700]
+	(No symbol) [0x00B605D3]
+	(No symbol) [0x00B66DD0]
+	(No symbol) [0x00B690CA]
+	(No symbol) [0x00B69147]
+	(No symbol) [0x00BA8234]
+	(No symbol) [0x00BA8D3B]
+	(No symbol) [0x00B9E111]
+	(No symbol) [0x00BCD2E4]
+	(No symbol) [0x00B9E034]
+	(No symbol) [0x00BCD514]
+	(No symbol) [0x00BEE61B]
+	(No symbol) [0x00BCD096]
+	(No symbol) [0x00B9C840]
+	(No symbol) [0x00B9D6A4]
+	GetHandleVerifier [0x00FC4573+2701795]
+	GetHandleVerifier [0x00FBFCF6+2683238]
+	GetHandleVerifier [0x00FDAA3E+2793134]
+	GetHandleVerifier [0x00D56915+155013]
+	GetHandleVerifier [0x00D5CFFD+181357]
+	GetHandleVerifier [0x00D474A8+92440]
+	GetHandleVerifier [0x00D47650+92864]
+	GetHandleVerifier [0x00D32040+5296]
+	BaseThreadInitThunk [0x752C5D49+25]
+	RtlInitializeExceptionChain [0x774ACFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x774ACF81+561]
+
+2025-05-07 20:49:30,173  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,180  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,188  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,196  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,202  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,211  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,218  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,224  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,229  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,235  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,241  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,246  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,252  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,257  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,263  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,269  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,274  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,280  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,285  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,290  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,296  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:49:30,299  INFO      Connections checked and CSV updated.
+2025-05-07 20:49:32,629  INFO      \U0001f51a Logged out & browser closed
+2025-05-07 20:52:05,585  INFO      ====== WebDriver manager ======
+2025-05-07 20:52:06,336  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:52:06,628  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-07 20:52:06,916  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-07 20:52:09,316  INFO      Logging in…
+2025-05-07 20:52:25,119  INFO      Login OK
+2025-05-07 20:52:32,958  INFO      \U0001f50d 3 cards parsed
+2025-05-07 20:52:32,958  INFO      3 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-07 20:52:32,958  INFO      Run done – pending=3 accepted=3
+2025-05-07 20:52:32,958  WARNING   Email creds missing – skipping alert.
+2025-05-07 20:52:32,958  ERROR     CSV file is missing the 'Status' column.
+2025-05-07 20:52:37,881  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,887  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,894  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,900  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,906  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,912  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,980  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,985  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,991  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:37,998  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,005  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,011  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,235  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,241  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,247  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,406  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,413  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,419  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,592  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,597  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,603  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,781  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,787  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,794  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,977  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,984  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:38,991  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,160  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,166  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,171  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,328  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,334  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,340  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,494  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,499  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,504  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,659  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,664  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,669  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,823  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,829  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,834  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,839  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,844  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,849  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,855  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,861  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,868  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,874  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,880  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,885  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,890  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,895  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,900  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,905  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,910  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,916  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,922  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,937  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,946  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,953  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,959  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,964  WARNING   Could not find the connection name for a particular card.
+2025-05-07 20:52:39,968  INFO      Connections checked and CSV updated.
+2025-05-07 20:52:42,143  INFO      \U0001f51a Logged out & browser closed
+2025-05-08 10:20:35,158  INFO      ====== WebDriver manager ======
+2025-05-08 10:20:36,067  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:20:36,448  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:20:36,729  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:20:37,395  INFO      WebDriver version 136.0.7103.92 selected
+2025-05-08 10:20:37,399  INFO      Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-08 10:20:37,399  INFO      About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-08 10:20:37,746  INFO      Driver downloading response is 200
+2025-05-08 10:20:40,088  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:20:41,268  INFO      Driver has been saved in cache [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-08 10:20:43,046  INFO      Logging in…
+2025-05-08 10:21:16,844  ERROR     \u203c  Message: 
+
+2025-05-08 10:21:16,924  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-08_exception.png
+2025-05-08 10:21:25,194  INFO      ====== WebDriver manager ======
+2025-05-08 10:21:26,056  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:21:26,351  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:21:26,660  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 10:21:28,016  INFO      Logging in…
+2025-05-08 10:22:00,899  ERROR     \u203c  Message: 
+
+2025-05-08 10:22:00,977  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-08_exception.png
+2025-05-08 10:22:42,690  INFO      ====== WebDriver manager ======
+2025-05-08 10:22:43,446  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:22:43,775  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:22:44,098  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 10:22:45,509  INFO      Logging in…
+2025-05-08 10:23:18,496  ERROR     \u203c  Message: 
+
+2025-05-08 10:23:18,578  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-08_exception.png
+2025-05-08 10:28:35,903  INFO      ====== WebDriver manager ======
+2025-05-08 10:28:36,682  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:28:36,993  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 10:28:37,273  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 10:28:39,774  INFO      Logging in…
+2025-05-08 10:28:56,145  INFO      Login OK
+2025-05-08 10:29:03,976  INFO      \U0001f50d 3 cards parsed
+2025-05-08 10:29:04,015  INFO      3 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-08 10:29:04,015  INFO      Run done – pending=3 accepted=3
+2025-05-08 10:29:04,015  WARNING   Email creds missing – skipping alert.
+2025-05-08 10:29:04,024  ERROR     CSV file is missing the 'Status' column.
+2025-05-08 10:29:06,113  INFO      \U0001f51a Logged out & browser closed
+2025-05-08 12:56:14,219  INFO      ====== WebDriver manager ======
+2025-05-08 12:56:15,206  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 12:56:15,570  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 12:56:15,888  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 12:56:17,139  INFO      Logging in…
+2025-05-08 12:56:41,947  INFO      Login OK
+2025-05-08 12:56:50,297  INFO      \U0001f50d 2 cards parsed
+2025-05-08 12:56:50,302  INFO      2 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-08 12:56:50,303  INFO      Run done – pending=2 accepted=2
+2025-05-08 12:56:50,303  WARNING   Email creds missing – skipping alert.
+2025-05-08 12:56:50,320  ERROR     CSV file is missing the 'Status' column.
+2025-05-08 12:56:52,437  INFO      \U0001f51a Logged out & browser closed
+2025-05-08 14:48:08,907  INFO      ====== WebDriver manager ======
+2025-05-08 14:48:09,709  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 14:48:10,049  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 14:48:10,339  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 14:48:12,821  INFO      Logging in…
+2025-05-08 14:48:27,730  INFO      Login OK
+2025-05-08 14:48:36,005  INFO      \U0001f50d 4 cards parsed
+2025-05-08 14:48:36,008  INFO      4 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-08 14:48:36,009  INFO      Run done – pending=4 accepted=4
+2025-05-08 14:48:36,009  WARNING   Email creds missing – skipping alert.
+2025-05-08 14:48:36,023  ERROR     CSV file is missing the 'Status' column.
+2025-05-08 14:48:37,836  INFO      \U0001f51a Logged out & browser closed
+2025-05-08 14:51:08,654  INFO      ====== WebDriver manager ======
+2025-05-08 14:51:09,451  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 14:51:09,773  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 14:51:10,069  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 14:51:12,472  INFO      Logging in…
+2025-05-08 14:51:29,289  INFO      Login OK
+2025-05-08 14:51:37,610  INFO      \U0001f50d 4 cards parsed
+2025-05-08 14:51:37,611  INFO      4 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-08 14:51:37,612  INFO      Run done – pending=4 accepted=4
+2025-05-08 14:51:37,612  WARNING   Email creds missing – skipping alert.
+2025-05-08 14:51:37,629  ERROR     CSV file is missing the 'Status' column.
+2025-05-08 14:51:39,436  INFO      \U0001f51a Logged out & browser closed
+2025-05-08 16:03:56,605  INFO      ====== WebDriver manager ======
+2025-05-08 16:03:57,440  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 16:03:57,781  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 16:03:58,085  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 16:04:00,778  INFO      Logging in…
+2025-05-08 16:04:19,960  INFO      Login OK
+2025-05-08 16:04:27,822  INFO      \U0001f50d 5 cards parsed
+2025-05-08 16:04:27,842  INFO      5 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-08 16:04:27,842  INFO      Run done – pending=5 accepted=5
+2025-05-08 16:04:27,842  WARNING   Email creds missing – skipping alert.
+2025-05-08 16:04:27,857  ERROR     CSV file is missing the 'Status' column.
+2025-05-08 16:04:27,857  ERROR     \u203c  [Errno 2] No such file or directory: 'path_to_your_credentials.json'
+2025-05-08 16:04:27,991  ERROR     Screenshot: C:\Users\muthu\Downloads\LinkedIn_checker\logs\screenshots\2025-05-08_exception.png
+2025-05-08 16:11:36,401  INFO      ====== WebDriver manager ======
+2025-05-08 16:11:37,231  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 16:11:37,524  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 16:11:37,825  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 16:11:40,329  INFO      Logging in…
+2025-05-08 16:11:56,577  INFO      Login OK
+2025-05-08 16:12:04,694  INFO      \U0001f50d 5 cards parsed
+2025-05-08 16:12:04,695  INFO      5 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-08 16:12:04,696  INFO      Run done – pending=5 accepted=5
+2025-05-08 16:12:04,696  WARNING   Email creds missing – skipping alert.
+2025-05-08 16:12:04,707  ERROR     CSV file is missing the 'Status' column.
+2025-05-08 16:12:04,708  ERROR     Error updating Google Sheet for Hariharan N T: Worksheet.find() missing 1 required positional argument: 'query'
+2025-05-08 16:12:04,708  ERROR     Error updating Google Sheet for Pravin Kumar: Worksheet.find() missing 1 required positional argument: 'query'
+2025-05-08 16:12:04,708  ERROR     Error updating Google Sheet for Ranjith raj: Worksheet.find() missing 1 required positional argument: 'query'
+2025-05-08 16:12:04,708  ERROR     Error updating Google Sheet for Sumeet Gulechha: Worksheet.find() missing 1 required positional argument: 'query'
+2025-05-08 16:12:04,708  ERROR     Error updating Google Sheet for HEMASWATHI S: Worksheet.find() missing 1 required positional argument: 'query'
+2025-05-08 16:12:06,726  INFO      \U0001f51a Logged out & browser closed
+2025-05-08 16:26:55,869  INFO      ====== WebDriver manager ======
+2025-05-08 16:26:56,658  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 16:26:57,003  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 16:26:57,319  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 16:26:59,930  INFO      Logging in…
+2025-05-08 16:27:16,385  INFO      Login OK
+2025-05-08 16:27:24,554  INFO      \U0001f50d 5 cards parsed
+2025-05-08 16:27:24,605  INFO      5 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-08 16:27:24,606  INFO      Run done – pending=5 accepted=5
+2025-05-08 16:27:24,606  WARNING   Email creds missing – skipping alert.
+2025-05-08 16:27:24,618  ERROR     CSV file is missing the 'Status' column.
+2025-05-08 16:27:24,618  ERROR     Error updating Google Sheet for Hariharan N T: [Errno 2] No such file or directory: 'path_to_your_credentials.json'
+2025-05-08 16:27:24,618  ERROR     Error updating Google Sheet for Pravin Kumar: [Errno 2] No such file or directory: 'path_to_your_credentials.json'
+2025-05-08 16:27:24,618  ERROR     Error updating Google Sheet for Ranjith raj: [Errno 2] No such file or directory: 'path_to_your_credentials.json'
+2025-05-08 16:27:24,619  ERROR     Error updating Google Sheet for Sumeet Gulechha: [Errno 2] No such file or directory: 'path_to_your_credentials.json'
+2025-05-08 16:27:24,619  ERROR     Error updating Google Sheet for HEMASWATHI S: [Errno 2] No such file or directory: 'path_to_your_credentials.json'
+2025-05-08 16:27:26,365  INFO      \U0001f51a Logged out & browser closed
+2025-05-08 16:35:46,248  INFO      ====== WebDriver manager ======
+2025-05-08 16:35:47,179  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 16:35:47,490  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-08 16:35:47,795  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-08 16:35:49,320  INFO      Logging in…
+2025-05-08 16:36:05,082  INFO      Login OK
+2025-05-08 16:36:13,555  INFO      \U0001f50d 5 cards parsed
+2025-05-08 16:36:13,557  INFO      5 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-08 16:36:13,557  INFO      Run done – pending=5 accepted=5
+2025-05-08 16:36:13,557  WARNING   Email creds missing – skipping alert.
+2025-05-08 16:36:13,570  ERROR     CSV file is missing the 'Status' column.
+2025-05-08 16:36:13,571  ERROR     Error updating Google Sheet for Hariharan N T: [Errno 2] No such file or directory: 'C:/secret_key'
+2025-05-08 16:36:13,571  ERROR     Error updating Google Sheet for Pravin Kumar: [Errno 2] No such file or directory: 'C:/secret_key'
+2025-05-08 16:36:13,571  ERROR     Error updating Google Sheet for Ranjith raj: [Errno 2] No such file or directory: 'C:/secret_key'
+2025-05-08 16:36:13,571  ERROR     Error updating Google Sheet for Sumeet Gulechha: [Errno 2] No such file or directory: 'C:/secret_key'
+2025-05-08 16:36:13,571  ERROR     Error updating Google Sheet for HEMASWATHI S: [Errno 2] No such file or directory: 'C:/secret_key'
+2025-05-08 16:36:15,661  INFO      \U0001f51a Logged out & browser closed
+2025-05-10 16:07:12,355  INFO      ====== WebDriver manager ======
+2025-05-10 16:07:13,182  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:07:13,497  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:07:13,797  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:07:14,426  INFO      WebDriver version 136.0.7103.92 selected
+2025-05-10 16:07:14,430  INFO      Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-10 16:07:14,430  INFO      About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/136.0.7103.92/win32/chromedriver-win32.zip
+2025-05-10 16:07:14,737  INFO      Driver downloading response is 200
+2025-05-10 16:07:16,928  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:07:17,952  INFO      Driver has been saved in cache [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92]
+2025-05-10 16:07:20,579  INFO      Logging in…
+2025-05-10 16:07:36,159  INFO      Login OK
+2025-05-10 16:07:44,017  INFO      \U0001f50d 9 cards parsed
+2025-05-10 16:07:44,019  INFO      9 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-10 16:07:44,019  INFO      Run done – pending=9 accepted=9
+2025-05-10 16:07:44,019  WARNING   Email creds missing – skipping alert.
+2025-05-10 16:07:44,033  ERROR     CSV file is missing the 'Status' column.
+2025-05-10 16:07:45,973  INFO      \U0001f51a Logged out & browser closed
+2025-05-10 16:11:24,552  INFO      ====== WebDriver manager ======
+2025-05-10 16:11:25,318  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:11:25,607  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:11:25,899  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 16:11:28,293  INFO      Logging in…
+2025-05-10 16:11:45,632  INFO      Login OK
+2025-05-10 16:11:54,158  INFO      \U0001f50d 9 cards parsed
+2025-05-10 16:11:54,159  INFO      9 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-10 16:11:54,160  INFO      Run done – pending=9 accepted=9
+2025-05-10 16:11:54,160  WARNING   Email creds missing – skipping alert.
+2025-05-10 16:11:54,171  ERROR     CSV file is missing the 'Status' column.
+2025-05-10 16:11:56,244  INFO      \U0001f51a Logged out & browser closed
+2025-05-10 16:15:32,990  INFO      ====== WebDriver manager ======
+2025-05-10 16:15:33,774  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:15:34,077  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:15:34,364  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 16:15:36,809  INFO      Logging in…
+2025-05-10 16:15:53,497  INFO      Login OK
+2025-05-10 16:16:02,070  INFO      \U0001f50d 9 cards parsed
+2025-05-10 16:16:02,070  INFO      9 rows \u2192 C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-10 16:16:02,071  INFO      Run done – pending=9 accepted=9
+2025-05-10 16:16:02,071  WARNING   Email creds missing – skipping alert.
+2025-05-10 16:16:02,083  ERROR     CSV file is missing the 'Status' column.
+2025-05-10 16:16:04,065  INFO      \U0001f51a Logged out & browser closed
+2025-05-10 16:23:14,791  INFO      ====== WebDriver manager ======
+2025-05-10 16:23:15,541  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:23:15,817  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:23:16,101  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 16:23:18,556  INFO      \U0001f510 Logging into LinkedIn...
+2025-05-10 16:23:36,058  INFO      \u2705 Logged in successfully.
+2025-05-10 16:23:45,419  INFO      \U0001f50d Parsed 9 invitations
+2025-05-10 16:23:45,420  INFO      \U0001f4dd Wrote 9 rows to C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-10 16:23:50,412  INFO      \u2705 Google Sheet updated (row 7): Nivitha AG
+2025-05-10 16:23:52,653  INFO      \u2705 Google Sheet updated (row 8): Ramar A
+2025-05-10 16:23:55,062  INFO      \u2705 Google Sheet updated (row 9): Abinayasaraswathi Boopathi
+2025-05-10 16:23:57,416  INFO      \u2705 Google Sheet updated (row 10): Madhavan .M
+2025-05-10 16:23:59,710  INFO      \u2705 Google Sheet updated (row 11): Ishwarya V
+2025-05-10 16:24:01,981  INFO      \u2705 Google Sheet updated (row 12): Pravin Kumar
+2025-05-10 16:24:04,265  INFO      \u2705 Google Sheet updated (row 13): Ranjith raj
+2025-05-10 16:24:06,556  INFO      \u2705 Google Sheet updated (row 14): Sumeet Gulechha
+2025-05-10 16:24:08,786  INFO      \u2705 Google Sheet updated (row 15): HEMASWATHI S
+2025-05-10 16:24:08,789  WARNING   \u2757 Email creds missing – skipping alert.
+2025-05-10 16:24:08,789  ERROR     \u2757 CSV is missing 'Status' column.
+2025-05-10 16:24:11,183  INFO      \U0001f44b Logged out & browser closed.
+2025-05-10 16:26:36,723  INFO      ====== WebDriver manager ======
+2025-05-10 16:26:37,509  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:26:37,803  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:26:38,092  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 16:26:40,528  INFO      \U0001f510 Logging into LinkedIn...
+2025-05-10 16:26:57,548  INFO      \u2705 Logged in successfully.
+2025-05-10 16:27:06,234  INFO      \U0001f50d Parsed 9 invitations
+2025-05-10 16:27:06,237  INFO      \U0001f4dd Wrote 9 rows to C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-10 16:27:11,157  INFO      \u2705 Google Sheet updated (row 7): Nivitha AG
+2025-05-10 16:27:13,621  INFO      \u2705 Google Sheet updated (row 8): Ramar A
+2025-05-10 16:27:15,895  INFO      \u2705 Google Sheet updated (row 9): Abinayasaraswathi Boopathi
+2025-05-10 16:27:18,150  INFO      \u2705 Google Sheet updated (row 10): Madhavan .M
+2025-05-10 16:27:20,384  INFO      \u2705 Google Sheet updated (row 11): Ishwarya V
+2025-05-10 16:27:22,704  INFO      \u2705 Google Sheet updated (row 12): Pravin Kumar
+2025-05-10 16:27:25,003  INFO      \u2705 Google Sheet updated (row 13): Ranjith raj
+2025-05-10 16:27:27,292  INFO      \u2705 Google Sheet updated (row 14): Sumeet Gulechha
+2025-05-10 16:27:29,532  INFO      \u2705 Google Sheet updated (row 15): HEMASWATHI S
+2025-05-10 16:27:29,535  ERROR     \u2757 CSV is missing 'Status' column.
+2025-05-10 16:27:31,615  INFO      \U0001f44b Logged out & browser closed.
+2025-05-10 16:29:01,479  INFO      ====== WebDriver manager ======
+2025-05-10 16:29:02,254  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:29:02,547  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-10 16:29:02,836  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-10 16:29:05,258  INFO      \U0001f510 Logging into LinkedIn...
+2025-05-10 16:29:26,176  INFO      \u2705 Logged in successfully.
+2025-05-10 16:29:35,107  INFO      \U0001f50d Parsed 9 invitations
+2025-05-10 16:29:35,108  INFO      \U0001f4dd Wrote 9 rows to C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-10 16:29:39,950  INFO      \u2705 Google Sheet updated (row 7): Nivitha AG
+2025-05-10 16:29:42,277  INFO      \u2705 Google Sheet updated (row 8): Ramar A
+2025-05-10 16:29:44,534  INFO      \u2705 Google Sheet updated (row 9): Abinayasaraswathi Boopathi
+2025-05-10 16:29:46,757  INFO      \u2705 Google Sheet updated (row 10): Madhavan .M
+2025-05-10 16:29:49,000  INFO      \u2705 Google Sheet updated (row 11): Ishwarya V
+2025-05-10 16:29:51,456  INFO      \u2705 Google Sheet updated (row 12): Pravin Kumar
+2025-05-10 16:29:53,702  INFO      \u2705 Google Sheet updated (row 13): Ranjith raj
+2025-05-10 16:29:55,993  INFO      \u2705 Google Sheet updated (row 14): Sumeet Gulechha
+2025-05-10 16:29:58,290  INFO      \u2705 Google Sheet updated (row 15): HEMASWATHI S
+2025-05-10 16:29:58,293  ERROR     \u2757 CSV is missing 'Status' column.
+2025-05-10 16:30:00,540  INFO      \U0001f44b Logged out & browser closed.
+2025-05-11 13:00:05,873  INFO      ====== WebDriver manager ======
+2025-05-11 13:00:06,714  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-11 13:00:07,012  INFO      Get LATEST chromedriver version for google-chrome
+2025-05-11 13:00:07,307  INFO      Driver [C:\Users\muthu\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-11 13:00:10,069  INFO      \U0001f510 Logging into LinkedIn...
+2025-05-11 13:00:15,871  INFO      \u2705 Logged in successfully.
+2025-05-11 13:00:24,180  INFO      \U0001f50d Parsed 8 invitations
+2025-05-11 13:00:24,182  INFO      \U0001f4dd Wrote 8 rows to C:\Users\muthu\Downloads\LinkedIn_checker\data\invitation_status.csv
+2025-05-11 13:00:28,116  INFO      \u2705 Google Sheet updated (row 14): Nivitha AG
+2025-05-11 13:00:30,298  INFO      \u2705 Google Sheet updated (row 15): Ramar A
+2025-05-11 13:00:32,432  INFO      \u2705 Google Sheet updated (row 16): Abinayasaraswathi Boopathi
+2025-05-11 13:00:34,584  INFO      \u2705 Google Sheet updated (row 17): Madhavan .M
+2025-05-11 13:00:36,747  INFO      \u2705 Google Sheet updated (row 18): Ishwarya V
+2025-05-11 13:00:38,949  INFO      \u2705 Google Sheet updated (row 19): Pravin Kumar
+2025-05-11 13:00:41,106  INFO      \u2705 Google Sheet updated (row 20): Ranjith raj
+2025-05-11 13:00:43,340  INFO      \u2705 Google Sheet updated (row 21): HEMASWATHI S
+2025-05-11 13:00:43,357  ERROR     \u2757 CSV is missing 'Status' column.
+2025-05-11 13:01:26,244  INFO      \U0001f44b Logged out & browser closed.

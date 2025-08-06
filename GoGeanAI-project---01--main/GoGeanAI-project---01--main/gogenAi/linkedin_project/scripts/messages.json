@@ -1,0 +1,27 @@
+{
+  "high": [
+    "Hi, I admire your leadership in cloud transformation. I’d love to connect and explore synergies around FinOps and scalable cost strategies.",
+    "Hello, your work in cloud innovation is inspiring. Let’s connect to discuss collaboration opportunities around financial efficiency in the cloud.",
+    "Hello, your strategic direction in cloud and cost optimization caught my eye. I’d love to collaborate or exchange ideas.",
+    "Hi, I’d like to connect with you and share insights around governance, visibility, and value generation in cloud financial management."
+  ],
+  "mid": [
+    "Hi, your experience in cloud execution and product strategy is impressive. I’d love to connect and share FinOps best practices.",
+    "Hello, I’m reaching out to build meaningful connections with professionals optimizing cloud usage and cost. Let’s connect!",
+    "Hi, your role in managing cloud services is exciting. I’d appreciate the opportunity to exchange ideas around FinOps enablement.",
+    "Hello, I’d like to connect and discuss practical challenges and innovations in cloud cost control and engineering collaboration.",
+    "Hi, I value connecting with mid-level leaders driving real-time visibility and budget alignment in cloud operations. Let’s connect!"
+  ],
+  "low": [
+    "Hi, I’m building a network of aspiring professionals in cloud and FinOps. Let’s connect and share knowledge.",
+    "Hello, your journey in cloud infrastructure and financial accountability interests me. I’d love to learn from your experiences.",
+    "Hi, let’s connect! I’m passionate about cloud engineering and learning how FinOps shapes efficient operations.",
+    "Hello, I’d love to collaborate with peers growing in the space of cloud cost optimization and smart budgeting.",
+    "Hi, I’m reaching out to connect with emerging talents in cloud operations. Let’s learn and grow in FinOps together."
+  ],
+  "keywords": {
+    "high": ["chief", "ceo", "founder", "vp", "vice president", "president", "cto", "cfo", "cio", "executive", "head", "director", "managing director"],
+    "mid": ["manager", "lead", "supervisor", "product owner", "project lead"],
+    "low": ["associate", "assistant", "intern", "junior", "analyst", "coordinator", "support"]
+  }
+}
